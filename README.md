@@ -1,4 +1,4 @@
-**##hey##**
+**##hey**
 ![rtysar](https://github.com/rtysar/rtysar/blob/main/standard.gif)
 
 
